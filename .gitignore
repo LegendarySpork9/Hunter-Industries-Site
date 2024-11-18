@@ -1,0 +1,16 @@
+# Build
+**[Bb]in/
+***[Dd]ebug/
+***[Rr]elease/
+
+# Odds
+/.vs/
+
+# Dev Config
+*[Aa]pp - Development.config
+
+# Server Log
+***[Ll]ogs/
+
+# Output
+**[Oo]utput/
